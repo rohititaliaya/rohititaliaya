@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rohit Italiya
 - 👀 I’m interested in Web Development and Android App Development 
 - 🌱 I’m currently learning Laravel Mix with HMVC Pattern
--     I'm Student 
 - 📫 How to reach me rohititaliaya@gmail.com
 
 <!---
